@@ -1,5 +1,7 @@
 # Data Science meets "Murder She Wrote"
-Reference repository for this Medium article: link.
+
+Reference repository for this Medium article: 
+https://towardsdatascience.com/data-science-meets-murder-she-wrote-47a57af26c55?gi=984ca2375499.
 
 Includes two Google Colab notebooks: 
 
